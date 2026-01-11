@@ -1,0 +1,168 @@
+{
+  "site": {
+    "name": "Almarreina Coffee Shop",
+    "tagline": "The coffee hive ☕🐝",
+    "description": "Specialty coffee and artisanal pastries in the heart of Asunción.",
+    "address": "Asunción, Paraguay",
+    "hours": {
+      "weekdays": "Tuesday - Friday: 1:00 PM - 9:00 PM",
+      "weekends": "Saturday - Sunday: 9:00 AM - 9:00 PM"
+    },
+    "social": {
+      "instagram": "https://www.instagram.com/almarreina",
+      "facebook": "https://www.facebook.com/almarreina",
+      "whatsapp": "https://wa.me/595981149936"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/23spx1ESMwKmNvp4A",
+    "cloudinaryFolder": "v1768090628"
+  },
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "products": "Products",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Almarreina Coffee Shop",
+      "subtitle": "The coffee hive ☕🐝",
+      "text": "Experience the art of specialty coffee and artisanal pastries in the heart of Asunción.",
+      "cta": { "label": "Explore Our Menu", "href": "menu" },
+      "image": "coffee_e3jzj5"
+    },
+    "features": {
+      "title": "Why Choose Almarreina",
+      "list": [
+        {
+          "icon": "coffee",
+          "title": "Specialty Coffee",
+          "text": "Carefully selected beans, roasted to perfection."
+        },
+        {
+          "icon": "croissant",
+          "title": "Artisanal Pastries",
+          "text": "Freshly baked daily with premium ingredients."
+        },
+        {
+          "icon": "heart",
+          "title": "Welcoming Atmosphere",
+          "text": "A warm and cozy space for everyone."
+        }
+      ]
+    },
+    "gallery": [
+      "breakfast_jixtpj",
+      "pot-mussels_na02nf",
+      "kitchen-bar_frqc56",
+      "dessert_opqpui",
+      "coffee_e3jzj5"
+    ],
+    "visit": {
+      "title": "Visit Us Today",
+      "text": "Experience the best coffee and pastries in Asunción",
+      "button": "Get Directions"
+    }
+  },
+  "menuPage": {
+    "title": "Our Menu",
+    "subtitle": "Discover our carefully crafted selections",
+    "sections": [
+      {
+        "title": "Coffee",
+        "items": [
+          {
+            "name": "Espresso",
+            "desc": "Classic Italian espresso",
+            "price": 15000
+          },
+          {
+            "name": "Cappuccino",
+            "desc": "Espresso with milk foam",
+            "price": 18000
+          }
+        ]
+      }
+    ]
+  },
+  "productsPage": {
+    "title": "Our Products",
+    "subtitle": "Artisanal pastries and baked goods",
+    "products": [
+      {
+        "id": "croissant-mantequilla",
+        "name": "Butter Croissant",
+        "price": 12000,
+        "short": "Flaky, buttery perfection.",
+        "long": "Artisanal croissant baked fresh daily...",
+        "images": ["dessert_opqpui", "coffee_e3jzj5", "cld-sample-4_nqjnl3"]
+      }
+    ]
+  },
+  "aboutPage": {
+    "title": "Our Story",
+    "subtitle": "Passion for coffee and community",
+    "story": {
+      "image": "fish-vegetables_aocgpl",
+      "paragraphs": [
+        "Almarreina was born from a passion for exceptional coffee...",
+        "Our mission is to offer a unique experience in every cup."
+      ]
+    },
+    "teamTitle": "Meet Our Team",
+    "teamSubtitle": "The people behind your favorite coffee",
+    "team": [
+      {
+        "name": "María González",
+        "role": "Head Barista",
+        "bio": "Coffee expert with 10 years of experience"
+      }
+    ],
+    "bannerImage": "kitchen-bar_frqc56"
+  },
+  "contactPage": {
+    "title": "Contact Us",
+    "subtitle": "We’d love to hear from you",
+    "form": {
+      "name": "Name",
+      "email": "Email Address",
+      "message": "Message",
+      "sendWhatsapp": "Send via WhatsApp",
+      "sendEmail": "Send via Email"
+    },
+    "reviews": {
+      "title": "Customer Reviews",
+      "sourceLabel": "Google Reviews",
+      "rating": 4.3,
+      "count": 783,
+      "items": [
+        {
+          "author": "Carolina V.",
+          "rating": 5,
+          "date": "2 weeks ago",
+          "text": "Amazing coffee and fresh pastries. The atmosphere is super cozy."
+        },
+        {
+          "author": "Diego R.",
+          "rating": 5,
+          "date": "1 month ago",
+          "text": "Excellent service and the cappuccino is one of the best I’ve tried."
+        },
+        {
+          "author": "María G.",
+          "rating": 4,
+          "date": "3 months ago",
+          "text": "Very nice place, ideal for working. Would definitely come back."
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3607.94155063245!2d-57.565884324509845!3d-25.272551577662448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x945da6051550917f%3A0x3c945ff3356ff799!2sAlmarreina!5e0!3m2!1sen!2spy!4v1768091458337!5m2!1sen!2spy",
+      "mapReviewsLink": "https://www.google.com/maps/place/Almarreina/@-25.2725516,-57.5658843,17z/data=!4m8!3m7!1s0x945da6051550917f:0x3c945ff3356ff799!8m2!3d-25.2725516!4d-57.5633094!9m1!1b1!16s%2Fg%2F11gdtk5k3v?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D"
+    }
+  },
+  "seo": {
+    "title": "Specialty Coffee in Asunción | Almarreina",
+    "description": "Specialty coffee and artisanal pastries in the heart of Asunción. Visit us today.",
+    "keywords": ["specialty coffee", "artisanal pastries", "Asunción"],
+    "ogImage": "og.jpg"
+  }
+}
