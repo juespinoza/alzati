@@ -1,53 +1,53 @@
 {
   "site": {
-    "name": "Almarreina Cafeteria",
-    "tagline": "A colmeia do café ☕🐝",
-    "description": "Café especial e confeitaria artesanal no coração de Assunção.",
-    "address": "Assunção, Paraguai",
+    "name": "Alzati Cafe Bar",
+    "tagline": "Amplia selección y un espacio para crear ✨",
+    "description": "Cafetería • librería y punto cultural en una casa histórica: café, pizzas, brunch y un jardín para bajar un cambio en Asunción.",
+    "address": "España casi Gral. Santos N° 1484, Asunción, Paraguay",
     "hours": {
-      "weekdays": "Terça - Sexta: 13:00 - 21:00",
-      "weekends": "Sábado - Domingo: 09:00 - 21:00"
+      "weekdays": "Miércoles - Viernes: 11:00 AM - 9:00 PM",
+      "weekends": "Sábado - Lunes: 11:00 AM - 9:00 PM"
     },
     "social": {
-      "instagram": "https://www.instagram.com/almarreina",
-      "facebook": "https://www.facebook.com/almarreina",
-      "whatsapp": "https://wa.me/595981149936"
+      "instagram": "https://www.instagram.com/alzaticafebar/",
+      "facebook": "https://www.facebook.com/alzati.libros/",
+      "whatsapp": "https://wa.me/595982527293"
     },
-    "googleMapsUrl": "https://maps.app.goo.gl/23spx1ESMwKmNvp4A",
+    "googleMapsUrl": "https://maps.app.goo.gl/ne1nLDh53VqBXK1HA",
     "cloudinaryFolder": "v1768090628"
   },
   "nav": {
-    "home": "Início",
-    "menu": "Menu",
-    "products": "Produtos",
-    "about": "Sobre Nós",
-    "contact": "Contato"
+    "home": "Inicio",
+    "menu": "Menú",
+    "products": "Productos",
+    "about": "Nosotros",
+    "contact": "Contacto"
   },
   "home": {
     "hero": {
-      "title": "Almarreina Cafeteria",
-      "subtitle": "A colmeia do café ☕🐝",
-      "text": "Vivencie a arte do café especial e da confeitaria artesanal no coração de Assunção.",
-      "cta": { "label": "Explore Nosso Menu", "href": "menu" },
+      "title": "Alzati Cafe Bar",
+      "subtitle": "Libros, café y un espacio para crear ✨",
+      "text": "Un rincón cultural para leer, trabajar, compartir y comer rico: café de especialidad, brunch, pizzas y un jardín que se siente como pausa.",
+      "cta": { "label": "Explora el Menú", "href": "menu" },
       "image": "coffee_e3jzj5"
     },
     "features": {
-      "title": "Por que escolher a Almarreina",
+      "title": "Por qué elegir Alzati",
       "list": [
         {
           "icon": "coffee",
-          "title": "Café Especial",
-          "text": "Grãos cuidadosamente selecionados e torrados à perfeição."
+          "title": "Café & Bebidas",
+          "text": "Café, jugos y opciones para acompañar cada momento del día."
         },
         {
           "icon": "croissant",
-          "title": "Confeitaria Artesanal",
-          "text": "Assado fresco diariamente com ingredientes premium."
+          "title": "Brunch, pizzas y para compartir",
+          "text": "Propuesta variada: brunchs, pizzas artesanales, sándwiches y platos para compartir."
         },
         {
           "icon": "heart",
-          "title": "Ambiente Acolhedor",
-          "text": "Um espaço quente e acolhedor para todos."
+          "title": "Casa + jardín + cultura",
+          "text": "Un espacio multifuncional: librería, eventos culturales y rincones para crear."
         }
       ]
     },
@@ -59,110 +59,147 @@
       "coffee_e3jzj5"
     ],
     "visit": {
-      "title": "Visite-nos Hoje",
-      "text": "Experimente o melhor café e confeitaria de Assunção",
-      "button": "Como Chegar"
+      "title": "Visítanos",
+      "text": "España casi Gral. Santos — vení por un café y quedate por la experiencia.",
+      "button": "Cómo llegar"
     }
   },
   "menuPage": {
-    "title": "Nosso Menu",
-    "subtitle": "Descubra nossas seleções cuidadosamente elaboradas",
+    "title": "Nuestro Menú",
+    "subtitle": "Opciones para todos los momentos del día",
     "sections": [
       {
         "title": "Café",
         "items": [
           {
             "name": "Espresso",
-            "desc": "Espresso italiano clássico",
+            "desc": "Intenso, corto y clásico.",
             "price": 15000
           },
           {
             "name": "Cappuccino",
-            "desc": "Espresso com espuma de leite",
+            "desc": "Espresso con leche y espuma.",
             "price": 18000
+          },
+          { "name": "Latte", "desc": "Cremoso, suave y largo.", "price": 20000 }
+        ]
+      },
+      {
+        "title": "Brunch & Salados",
+        "items": [
+          {
+            "name": "Brunch de la casa",
+            "desc": "Variado, ideal para compartir.",
+            "price": 45000
+          },
+          {
+            "name": "Sándwiches",
+            "desc": "Opciones frescas para cualquier hora.",
+            "price": 38000
+          },
+          {
+            "name": "Pizzas artesanales",
+            "desc": "Clásicas y especiales.",
+            "price": 65000
           }
         ]
       }
     ]
   },
   "productsPage": {
-    "title": "Nossos Produtos",
-    "subtitle": "Confeitaria artesanal e produtos assados",
+    "title": "Nuestros Productos",
+    "subtitle": "Dulces, salados y favoritos de la casa",
     "products": [
       {
-        "id": "croissant-mantequilla",
-        "name": "Croissant de Manteiga",
-        "price": 12000,
-        "short": "Perfeição folhada e amanteigada.",
-        "long": "Croissant artesanal assado diariamente...",
+        "id": "croissant-chocolate",
+        "name": "Croissant de Chocolate",
+        "price": 18000,
+        "short": "Hojaldrado, mantecoso, con centro de chocolate.",
+        "long": "Croissant artesanal ideal para acompañar café o merienda.",
+        "images": ["dessert_opqpui", "coffee_e3jzj5", "cld-sample-4_nqjnl3"]
+      },
+      {
+        "id": "mbeju",
+        "name": "Mbejú",
+        "price": 25000,
+        "short": "Clásico paraguayo, crocante y con mucho queso.",
+        "long": "Una opción tradicional para desayunos o tardes con mate/café.",
         "images": ["dessert_opqpui", "coffee_e3jzj5", "cld-sample-4_nqjnl3"]
       }
     ]
   },
   "aboutPage": {
-    "title": "Nossa História",
-    "subtitle": "Paixão pelo café e pela comunidade",
+    "title": "Nuestra Historia",
+    "subtitle": "Un lugar para elevar el día",
     "story": {
       "image": "fish-vegetables_aocgpl",
       "paragraphs": [
-        "A Almarreina nasceu de uma paixão por café excepcional...",
-        "Nossa missão é oferecer uma experiência única em cada xícara."
+        "Alzati es un punto de encuentro donde literatura, gastronomía y cultura conviven en un mismo espacio.",
+        "Nació como un refugio creativo: venís por un café, encontrás un libro, te quedás por la conversación, la música o el jardín."
       ]
     },
-    "teamTitle": "Conheça Nossa Equipe",
-    "teamSubtitle": "As pessoas por trás do seu café favorito",
+    "teamTitle": "Nuestro Equipo",
+    "teamSubtitle": "Personas que sostienen la experiencia",
     "team": [
       {
-        "name": "María González",
-        "role": "Barista Chefe",
-        "bio": "Especialista em café com 10 anos de experiência"
+        "name": "Equipo Alzati",
+        "role": "Cocina • barra • librería",
+        "bio": "Una propuesta hecha para que siempre haya algo para descubrir: sabores, libros y momentos."
       }
     ],
     "bannerImage": "kitchen-bar_frqc56"
   },
   "contactPage": {
-    "title": "Fale Conosco",
-    "subtitle": "Adoraríamos ouvir você",
+    "title": "Contáctanos",
+    "subtitle": "Reservas, consultas o eventos",
     "form": {
-      "name": "Nome",
-      "email": "E-mail",
-      "message": "Mensagem",
-      "sendWhatsapp": "Enviar pelo WhatsApp",
-      "sendEmail": "Enviar por E-mail"
+      "name": "Nombre",
+      "email": "Correo Electrónico",
+      "message": "Mensaje",
+      "sendWhatsapp": "Enviar por WhatsApp",
+      "sendEmail": "Enviar por Email"
     },
     "reviews": {
-      "title": "Avaliações dos Clientes",
-      "sourceLabel": "Avaliações do Google",
-      "rating": 4.3,
-      "count": 783,
+      "title": "Reseñas de clientes",
+      "sourceLabel": "Reseñas de Google",
+      "rating": 4.6,
+      "count": 0,
       "items": [
         {
-          "author": "Carolina V.",
+          "author": "Cliente verificado",
           "rating": 5,
-          "date": "Há 2 semanas",
-          "text": "Café incrível e confeitaria fresca. O ambiente é super aconchegante."
+          "date": "Reciente",
+          "text": "Ambiente hermoso, ideal para leer o trabajar. El jardín es un plus."
         },
         {
-          "author": "Diego R.",
+          "author": "Cliente verificado",
           "rating": 5,
-          "date": "Há 1 mês",
-          "text": "Atendimento excelente e o cappuccino é um dos melhores que já provei."
+          "date": "Reciente",
+          "text": "Excelente café y opciones para comer. Muy buena vibra."
         },
         {
-          "author": "María G.",
+          "author": "Cliente verificado",
           "rating": 4,
-          "date": "Há 3 meses",
-          "text": "Lugar muito bonito, ideal para trabalhar. Voltaria com certeza."
+          "date": "Reciente",
+          "text": "Un lugar distinto en Asunción: libros, comida y eventos."
         }
       ],
-      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3607.94155063245!2d-57.565884324509845!3d-25.272551577662448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x945da6051550917f%3A0x3c945ff3356ff799!2sAlmarreina!5e0!3m2!1spt!2spy!4v1768091458337!5m2!1spt!2spy",
-      "mapReviewsLink": "https://www.google.com/maps/place/Almarreina/@-25.2725516,-57.5658843,17z/data=!4m8!3m7!1s0x945da6051550917f:0x3c945ff3356ff799!8m2!3d-25.2725516!4d-57.5633094!9m1!1b1!16s%2Fg%2F11gdtk5k3v?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D"
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3607.4877179289347!2d-57.611470624615116!3d-25.287812877652694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x945da9ff54ee928f%3A0xd3e4dddc901de159!2sAlzati%20Books%20and%20Coffee%20Shop!5e0!3m2!1ses-419!2spy!4v1768116616886!5m2!1ses-419!2spy",
+      "mapReviewsLink": "https://www.google.com/maps/place/Alzati+Books+and+Coffee+Shop/@-25.2878129,-57.6114706,17z/data=!4m8!3m7!1s0x945da9ff54ee928f:0xd3e4dddc901de159!8m2!3d-25.2878129!4d-57.6088957!9m1!1b1!16s%2Fg%2F11jsjjp43p?hl=es-US&entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D"
     }
   },
   "seo": {
-    "title": "Café Especial em Assunção | Almarreina",
-    "description": "Café especial e confeitaria artesanal no coração de Assunção. Visite-nos hoje.",
-    "keywords": ["café especial", "confeitaria artesanal", "Assunção"],
+    "title": "Café & Librería en Asunción | Alzati Cafe Bar",
+    "description": "Alzati Cafe Bar (Books & Coffee Shop): café, libros, brunch, pizzas y un jardín en una casa histórica en Asunción. España casi Gral. Santos.",
+    "keywords": [
+      "cafetería en Asunción",
+      "café de especialidad",
+      "librería",
+      "brunch",
+      "pizzas artesanales",
+      "España y General Santos",
+      "Las Mercedes"
+    ],
     "ogImage": "og.jpg"
   }
 }

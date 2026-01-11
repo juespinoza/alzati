@@ -1,6 +1,6 @@
-# ☕ Almarreina Cafetería — Website Oficial
+# ☕ Alzati Café Bar — Website Oficial
 
-Sitio web profesional, moderno y optimizado para **Almarreina Cafetería**, desarrollado con **Next.js App Router**, enfocado en performance, SEO, analítica y una experiencia de usuario cuidada tanto en desktop como en mobile.
+Sitio web profesional, moderno y optimizado para **Alzati Café Bar**, desarrollado con **Next.js App Router**, enfocado en performance, SEO, analítica y una experiencia de usuario cuidada tanto en desktop como en mobile.
 
 El proyecto está preparado para **contenido multilenguaje (ES / EN / PT)**, medición de tráfico y eventos con **Google Analytics 4**, y una arquitectura escalable y mantenible.
 
@@ -157,9 +157,9 @@ Ingeniera Informática · Web Performance · UX · SEO
 ✔ Performance optimizada
 🔜 Mejoras UX avanzadas (guardadas en roadmap)
 
-## 🐝 Almarreina
+## 🐝 Alzati
 
-La colmena del café ☕🐝
-Café de especialidad y pastelería artesanal en el corazón de Asunción.
+Café & Librería en Asunción ☕
+Alzati Cafe Bar (Books & Coffee Shop): café, libros, brunch, pizzas y un jardín en una casa histórica en Asunción.
 
 ---

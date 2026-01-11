@@ -14,7 +14,7 @@
       "whatsapp": "https://wa.me/595982527293"
     },
     "googleMapsUrl": "https://maps.app.goo.gl/ne1nLDh53VqBXK1HA",
-    "cloudinaryFolder": "alzati"
+    "cloudinaryFolder": "v1768090628"
   },
   "nav": {
     "home": "Inicio",
@@ -29,7 +29,7 @@
       "subtitle": "Libros, café y un espacio para crear ✨",
       "text": "Un rincón cultural para leer, trabajar, compartir y comer rico: café de especialidad, brunch, pizzas y un jardín que se siente como pausa.",
       "cta": { "label": "Explora el Menú", "href": "menu" },
-      "image": "alzati_hero"
+      "image": "coffee_e3jzj5"
     },
     "features": {
       "title": "Por qué elegir Alzati",
@@ -52,11 +52,11 @@
       ]
     },
     "gallery": [
-      "alzati_sign",
-      "alzati_house_exterior",
-      "alzati_interior_tables",
-      "alzati_garden",
-      "alzati_coffee"
+      "breakfast_jixtpj",
+      "pot-mussels_na02nf",
+      "kitchen-bar_frqc56",
+      "dessert_opqpui",
+      "coffee_e3jzj5"
     ],
     "visit": {
       "title": "Visítanos",
@@ -116,7 +116,7 @@
         "price": 18000,
         "short": "Hojaldrado, mantecoso, con centro de chocolate.",
         "long": "Croissant artesanal ideal para acompañar café o merienda.",
-        "images": ["alzati_pastry_01", "alzati_pastry_02", "alzati_coffee"]
+        "images": ["dessert_opqpui", "coffee_e3jzj5", "cld-sample-4_nqjnl3"]
       },
       {
         "id": "mbeju",
@@ -124,7 +124,7 @@
         "price": 25000,
         "short": "Clásico paraguayo, crocante y con mucho queso.",
         "long": "Una opción tradicional para desayunos o tardes con mate/café.",
-        "images": ["alzati_mbeju_01", "alzati_mbeju_02", "alzati_garden"]
+        "images": ["dessert_opqpui", "coffee_e3jzj5", "cld-sample-4_nqjnl3"]
       }
     ]
   },
@@ -132,7 +132,7 @@
     "title": "Nuestra Historia",
     "subtitle": "Un lugar para elevar el día",
     "story": {
-      "image": "alzati_house_exterior",
+      "image": "fish-vegetables_aocgpl",
       "paragraphs": [
         "Alzati es un punto de encuentro donde literatura, gastronomía y cultura conviven en un mismo espacio.",
         "Nació como un refugio creativo: venís por un café, encontrás un libro, te quedás por la conversación, la música o el jardín."
@@ -147,7 +147,7 @@
         "bio": "Una propuesta hecha para que siempre haya algo para descubrir: sabores, libros y momentos."
       }
     ],
-    "bannerImage": "alzati_garden"
+    "bannerImage": "kitchen-bar_frqc56"
   },
   "contactPage": {
     "title": "Contáctanos",

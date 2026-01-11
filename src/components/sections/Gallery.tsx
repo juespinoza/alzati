@@ -26,6 +26,7 @@ export default function Gallery({
             fill
             sizes="(max-width: 768px) 100vw, 50vw"
             className="object-cover hover:scale-[1.02] transition duration-300"
+            loading="eager"
           />
         </div>
       ))}
