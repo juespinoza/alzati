@@ -1,4 +1,4 @@
-# ☕ Alzati Café Bar — Website Oficial
+# ☕ Alzati Café Bar - Website Oficial
 
 Sitio web profesional, moderno y optimizado para **Alzati Café Bar**, desarrollado con **Next.js App Router**, enfocado en performance, SEO, analítica y una experiencia de usuario cuidada tanto en desktop como en mobile.
 
